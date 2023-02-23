@@ -29,5 +29,5 @@ Once you have provided your Mastodon credentials, you can use Mastocli to view y
 
 
 ```
-$ python3 mastocli.py
+$ python3 visual.py
 ```
